@@ -9,6 +9,7 @@ body{
     background-color: black;
     width: 100%;
     min-width: fit-content;
+    min-height: 1800px;
 }
 
 main{
