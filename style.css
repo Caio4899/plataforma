@@ -10,6 +10,7 @@ body{
     width: 100%;
     min-width: fit-content;
     height: 100vh;
+    display: block;
 }
 
 main{
